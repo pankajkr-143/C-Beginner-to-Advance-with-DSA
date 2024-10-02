@@ -9,6 +9,6 @@ int main(){
 	cout<<"Enter Second Number: ";
 	cin>>b;
 	c = a + b;
-	cout<<"Sum is: "<<a<<endl;
+	cout<<"Sum is: "<<c<<endl;
 	return 0;
 }
